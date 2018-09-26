@@ -1,0 +1,15 @@
+2018-09-26 17:11:35,207 - DEBUG - debug message
+2018-09-26 17:11:35,208 - INFO - info message
+2018-09-26 17:11:35,208 - WARNING - warning message
+2018-09-26 17:11:35,208 - ERROR - error message
+2018-09-26 17:11:35,208 - CRITICAL - critical message
+2018-09-26 17:13:14,956 - DEBUG - debug message
+2018-09-26 17:13:14,957 - INFO - info message
+2018-09-26 17:13:14,957 - WARNING - warning message
+2018-09-26 17:13:14,957 - ERROR - error message
+2018-09-26 17:13:14,957 - CRITICAL - critical message
+2018-09-26 17:14:12,666 - DEBUG - debug message
+2018-09-26 17:14:12,666 - INFO - info message
+2018-09-26 17:14:12,667 - WARNING - warning message
+2018-09-26 17:14:12,667 - ERROR - error message
+2018-09-26 17:14:12,667 - CRITICAL - critical message
